@@ -1,4 +1,4 @@
-Financial Statement Fraud Detection (ML)
+# Financial Statement Fraud Detection (ML)
 Overview
 
 This project applies Machine Learning to detect financial statement fraud in Vietnamese listed companies using financial indicators such as F-score, M-score, and Z-score.
@@ -9,7 +9,7 @@ M score.xlsx – Beneish M-score
 Z score.xlsx – Financial distress
 Fraud.xlsx – Final labeled dataset
 Manipulate.xlsx – Supporting variables
-Code - All the used code for this project
+Code.ipynb - All the used code for this project
 2. Methodology
 Fraud labels built from proxy indicators (F-score, M-score, profit differences)
 Models used:
